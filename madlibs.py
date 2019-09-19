@@ -1,6 +1,6 @@
 import random
 #%%
-verbs = ["a", "b", "c"]
+verbs = ["A", "B", "C"]
 print(verbs)
 
 #%%
