@@ -1,0 +1,25 @@
+﻿1. I was following along with the explanations and the examples that were mentioned in chapter 4, 5, and 6, and I posted my attempts in Github under the following names:
+* Calculating.ipynb
+* Double, Double.ipynb
+* function have scope.py
+* iteration(looping) abstarcts along sequences.py
+* revisting double.py
+* Tax.py
+* the conditional, if.py
+* Triple.ipynb
+* Exercise 6-1.py
+* Exercise 6-2.py
+* Exercise 6-4.py
+* Exercise 6-5.py 
+Following along with what the author was saying, helped me understand how computers react. I now know how to deal with errors not in solving them immediately, but assuming what I’ve entered mistakenly.  
+I am planning to continue reading and practicing at the same time since I gained basic knowledge because of following this method. Communicate with computers is not an easy task!
+
+
+1. I found a helpful App that provides fast and small exercises in learning python, Sololearn. I’ve been using this app now for one week, and I liked how this app is following the same series of our lectures and readings. It also provides a hover feature that pops up a message to the users. Users need to point their finger on top of a term or symbol that they don’t know what it states to activate that feature. I like watching tutorials and using apps that help me understand things!
+
+
+
+
+1. I am doing good so far, yet I sometimes still struggle in redoing things by myself without looking at the readings, examples, or exercises. Reading chapter 6 was a challenge because of the tasks, yet I did 4 out of 6! The two activities that stopped me and could not do them are exercises 6.3 and 6.6, and I hope we can go over some of the practices in class, or similar ideas to understand them better.
+ 
+I struggle with covering all the readings that come from different sources, yet I am trying to do my best. However, the book that I liked the most is "Exploratory Programming for the Arts and Humanities" because it follows the exact things that we are doing in class, it goes slow in explaining things, and it encourages the readers to practice. I am planning to put my main focus of this book, and I hope that I am not making the wrong decision.
