@@ -362,7 +362,7 @@ def sum_random(x):
 #%%
 def sum_random(x):
     a = 0
-    for a in range(0, x):
+    for value in range(0, x):
         a = a + random.randint(1,100)
     return a
 #%%
