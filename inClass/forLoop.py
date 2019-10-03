@@ -12,7 +12,7 @@ def double(input):
 #%%
 def exponent(x, y):
     z = x
-    for n in range(1, y):
+    for z in range(1, y):
         z = z * x
         return z
 
