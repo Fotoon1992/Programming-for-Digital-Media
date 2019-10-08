@@ -1,0 +1,17 @@
+﻿1- The following files in my GitHub are the exercises and practises that I worked on for chapter-8:
+
+
+* Chapter8
+1. Ch8.py
+2. Exercise8-1.py
+3. Exercise8-2.py
+4. Exercise8-3.py
+5. Exercise8-4.py
+For exercise-1 I used the same variable (wyatt) to do the new function and test it to see if I can get the same result and I did! Exercise-2 I did both ways of using boolean, first one is only two lines to get True for return. The second way is using if that then True else is False. Exercise-3 I used split(‘ ’)-1 to count the spaces in between the words. I used the same code for doing Exercise-4 but instead of getting its value I subtract its value from the whole length of the input. 
+
+
+2-  Doing Chapter 8 for this week reminded me of chapter 8 from How to Think Like a Computer Scientist, which we did a couple of weeks ago. It helped me a lot in understanding this week's reading because they are both talking on the same concept: Strings. How to work with them in different ways: split strings, work with a single string or a whole string, use length to get the number of characters of a string. 
+Cutting and slicing strings in Python is a reading I found from Python Central website that explains the same content of chapter 8. I find this reading helpful since it is highlighting things and tying notes above each line of the code. This method is useful in understanding what each code represents and what it will do.  
+
+
+3- For this chapter I didn’t face any obstacles. However, the only thing I am worried about is the free project that I need to choose for next week’s assignment.
