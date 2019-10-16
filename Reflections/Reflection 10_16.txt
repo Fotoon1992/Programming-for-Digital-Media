@@ -1,0 +1,19 @@
+﻿1- For chapter 9, I followed the reading by redoing the explanations and steps of Text II: Regular Expressions. My practice of this reading is inside chapter9 folder in my GitHub named with ch9.py. The exercise that I did is exercise 9-1, which is also inside the chapter9 folder named Exercise 9-1.py. This chapter was challenging, and it has a lot of new information that is complicated and need time to be memorized. I couldn't solve any of the exercises, yet I did something with exercise 9-1 that could return the last character with ! but not the whole term. I also did a function that returns an entire sentence that follows by ! yet it doesn't work accurately with the two texts from Project Gutenberg.
+
+
+
+
+2- For this week, I would like to introduce CHATTERBOX that allows kids to work with technology and coding! The thing I like about it is that it uses a nice and helpful way to learn to program. It is emphasizing the scope of a particular function like puzzles that need to be attached. For example, the first line of the scope is the one that carries the rest of the other sequences with a particular color. By that, people know that they are coding inside a specific function and not rotating between different scopes.
+https://www.kickstarter.com/projects/hellochatterbox/chatterbox-the-smart-speaker-that-kids-build-and-p. 
+
+
+3- The most part that took hours to solve while doing this chapter was the Plain Text UTF 8. The text files are set in UTF 8, but when I tried to open them inside VS Code, it kept giving errors.
+  
+
+
+
+I looked it up on the internet, I found this helpful code that worked and let me continue 
+doing the rest of the reading conveniently.
+
+
+source = open('pg1342-0.txt', encoding="utf8")
