@@ -21,7 +21,7 @@ def dictionary(term):
     else:
         return 'Not defined in this dictionary'
 #%%
-#The following code works! But this not how I wanted to be. I was trying to use for___in___: but I couldn't figure how to make it act accurately. I tried the following ways, and none of them worked:
+#The following code works! But this is not how I wanted to be. I was trying to use for___in___: but I couldn't figure how to make it act accurately. I tried the following ways, and none of them worked:
 #1
 def age(birth_year):
     today_year = 2019
