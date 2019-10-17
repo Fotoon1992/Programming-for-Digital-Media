@@ -1,4 +1,5 @@
 #%%
+#The three words dictionary:
 #for this program, I used the if condition to create a dictionary that has three different terms that are translated into Arabic with their pronunciation. I was trying to modify this code:
 def sign(num):
     answer = '?'
@@ -21,7 +22,14 @@ def dictionary(term):
     else:
         return 'Not defined in this dictionary'
 #%%
-#The following code works! But this is not how I wanted it to be. I was trying to use for___in___: but I couldn't figure how to make it act accurately. I tried the following ways, and none of them worked:
+#Age calculator:
+#The following code works! But this is not how I wanted it to be. 
+#%%
+def age(birth_year):
+    today_year = 2019
+    today_age = today_year - birth_year
+    return str(today_age) + ' years old!'
+#I was trying to use for___in___: but I couldn't figure how to make it act accurately. I tried the following ways, and none of them worked:
 #1
 def age(birth_year):
     today_year = 2019
