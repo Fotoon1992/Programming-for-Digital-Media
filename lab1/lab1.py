@@ -201,7 +201,7 @@ f1(1) # 1 is passed in as an argument to the function, and is bound to the local
 # the arguments anything you want
 #%%
 def multiply_2(a, b):
-    return a + b
+    return a * b
 #%% [markdown]
 # # Conditionals and Tests
 # One of the advantages of having a computer execute instructions is that it can
@@ -354,6 +354,7 @@ print(random.randint(2,100))
 # The function should accept a single argument. For instance, sum_random(2)
 # would sum two numbers between 1 and 100: 34 and 16 and return the value 50.
 #%% 
+import random
 def sum_random(x):
     a = 0
     for element in range(0, x):
