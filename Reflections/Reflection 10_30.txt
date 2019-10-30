@@ -1,0 +1,8 @@
+﻿1. For this week, I did chapter 11, and it was so challenging. However, I followed up doing the examples while reading. The codes are in my GitHub inside chapter 11 folder/ch.11. The blur code was not working because of adding parentheses between x, y, and also missing the letter a for assigning the getpixel. After fixing those mistakes, the code run and worked.  
+
+
+2. https://automatetheboringstuff.com/chapter17/
+This is a good source I found while doing chapter 11 and lab2. It covers a lot of similarities to what we are doing this week. It gives an excellent introduction to RGB colors and pixels' coordinates. It also explains new things like how to crop a picture and add it to another image and duplicate that piece with a decent amount of numbers.
+
+
+3. I had so many obstacles with this chapter, as well as the Gutenberg. I might need to practice and search more. The most challenging part is to face a problem with a code, and the solution for that problem is so obvious but not clear enough for me to determine it quickly.
