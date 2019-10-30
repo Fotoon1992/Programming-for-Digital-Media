@@ -204,7 +204,7 @@ def modify(pngimage):
     for x in range(225):
         for y in range(225):
             (r, g, b, a) = pngimage.getpixel((x, y))
-            pngimage.putpixel((x, y), (r, g, b,a))
+            pngimage.putpixel((x, y), (r, g, b, a))
 
 #%%
 #doesn't work
