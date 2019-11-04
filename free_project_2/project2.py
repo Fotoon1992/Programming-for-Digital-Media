@@ -12,5 +12,5 @@ def pixelize(img):
     result = imgpix.resize(img.size, Image.NEAREST)
     return result
 pixelize(img)
-pixelize(img).save('free_project_2/img_pixelize.png')
+#pixelize(img).save('free_project_2/img_pixelize.png')
 #%%
