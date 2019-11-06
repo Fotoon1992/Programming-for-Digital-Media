@@ -1,0 +1,6 @@
+﻿Reflection 11/6
+
+
+1. This week I started reading chapter 12, and it was exciting! I tried to do the first example of using processing, but unfortunately, the code was not working. I guess that the code in the text has some errors, and I couldn’t figure them out. I did Exercise 12-1, for this exercise tried to modify “def mean()” by dividing the length of the data so I can get the median of an array. My work is started in my GitHub under file chapter12.
+2. I have been using Arduino IDE for my physical computing class, and it is identically similar to processing in the way of coding. Arduino is based on processing, so I believe I am now learning the foundation of Arduino. Processing focuses on visuals, and it is a new thing to me that I am excited about. On the other hand, Arduino helps to build different outputs, for example, (what I am working on currently) scanning an RFID to trigger various audios. They are slightly different but, I am sure that processing does things the same way Arduino does.
+3. Issues I run into with this chapter: the code of processing was not working, and I could not fix the errors, I tried to use my knowledge of Arduino, but I also couldn't figure it out. The error was, “ Maybe there's an unclosed paren or quote mark somewhere before this line?” the line is float mean(float[] sequence) { the first line of the code.
