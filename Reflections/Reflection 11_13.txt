@@ -1,0 +1,10 @@
+﻿Reflection 11/13
+
+
+1. I did chapter 14 for this week, and I found it so confusing that the book is using Java, and lab3 is in Python. I could not transfer the Java code into Python for exercise 14-2, yet I did exercise 14-1 with python. For exercise 14-2, I tried to use (for i in range) to change the code from Java (for (int)) into a python loop, but I struggled with it and continued following with the reading using Java. I added my codes for exercise 14-1 and 14-2 in my GitHub under chapter 14.
+
+
+2. It is so fascinating to see artists use Processing to create beautiful works. I looked up some artists, and I found the following artists that I liked: Bees & Bombs and Raven Kwok. The rotation that they used for building clips and artworks is fabulous. Using Processing to do this type of work is convenient because drawing small things and duplicate them is so hard with a hand doing. I did a lot of Islamic motifs in my undergrad study; it was so hard and took a lot of time, but learning processing helps to create such things with saving a lot of time and reducing a lot of mess. 
+
+
+3. The only thing I found so hard is to deal with two languages at the same time. And also, almost all the online sources are using Java with Processing. However, the website has good references for python.
