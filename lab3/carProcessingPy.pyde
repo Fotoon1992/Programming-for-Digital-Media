@@ -51,7 +51,7 @@ class creation(object):
         self.mX = 0
         self.mY = 0
         
-      #creat ne function that relocate the mousex and mousey then call it in draw 
+      #creat new function that relocates the mousex and mousey then call it in draw 
     def update(self, mx,my):
         self.mX = mx
         self.mY = my
