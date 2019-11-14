@@ -5,7 +5,6 @@
 # (3-5) I added a ellipse and if the user pressed 'a' it will change to square 'as a traffic rotary'
 #********************************
 
-
 class Car(object):  
 
     def __init__(self, c, xpos, ypos, xspeed):
@@ -59,7 +58,7 @@ class creation(object):
     def display(self):
         stroke(0)
         fill(self.c)
-        rectMode(CENTER)
+        ellipseMode(CENTER)
         ellipse(self.mX, self.mY, 30, 30)
         
 myCar1 = Car(color(255, 0, 0), 0, 100, 2)    
@@ -87,12 +86,15 @@ create = creation(color(73, 63, 253),0,0)
 
 def draw():
     background(255)
+    
     fill(0)
     textSize(20)
     text("Press a", 70, 190)
+    
     #displaying the array here
     for i in arr:
         i.display()
+        
     create.display()
     #mynewObject1.display()
     #mynewObject2.display()
