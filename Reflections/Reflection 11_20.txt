@@ -1,0 +1,6 @@
+﻿Reflection 11/20
+
+
+1. For this week, I went to the same chapter as last week, chapter14. I am taking it slowly with this chapter because I wish I can get something out of it that will help me with my final project. However, I did the example of the moving rectangle as well as doing exercise 14-3. Both of them are in my GitHub under chapter 14 folder. 
+2. Scratch is an online website that helps users to build animations. I thought of this website while doing chapter 14. Moving objects and manipulate their speeds is the start of creating animations. Scratch has an easy way to code whatever animation the user wants to use. Users can record audios and implement that sound to the animation as well as they can move the animation and control the speed and the time of movements. This is a fantastic way to teach kids and beginners to be pleased by coding their objects.     
+3. The obstacle I am facing this week is deciding on my final project that I am so nervous about.
