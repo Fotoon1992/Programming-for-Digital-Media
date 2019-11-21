@@ -1,6 +1,5 @@
 #%%
 img = Image.open('images.png')
-img
 # %%
 #[Free Project 11-1] Image Manipulation as You Like It:
 from PIL import Image 
