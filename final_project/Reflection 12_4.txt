@@ -1,0 +1,17 @@
+﻿Geometric Pattern:
+
+
+My goal for this project is to achieve doing geometric motifs, in particular, Islamic motifs. I worked with this topic a lot in my undergrad studies. I am so fascinated with repeating and placing a unit within different positions and patterns, but the only thing that I hated about is the chaos of using carbon paper, transparent paper, rulers, and erasers. However, I also tried using photoshop and so many other software editors, and this technique was amazing. It was so easy copying and placing a unit wherever I wanted to, and also, the scale changing of a unit is so convenient. Technology helped a lot within the artwork in general, and patterns got so much advantage of that. This is my first time using code to create patterns and colors, it is simple, but it was a radical change that is worth all the hard work. 
+
+
+Article/project of an academic nature which engages with concepts related to my project:
+
+
+Kaplan, Craig S. “Islamic star patterns from polygons in contact.” Proceedings of Graphics Interface 2005. Canadian Human-Computer Communications Society, 2005. I found this article interesting because it talks about angles and the midpoints of lines where they meet and create a pattern. I was so fascinated about the article, and I looked up what people are doing with codes and geometric and how they think of doing it, and it turns out that people are doing a lot of fabulous work. The reading also talked about filling the patterns with others once on top of each other, achieving what Islamic motifs mostly focus on. For my project, I tried to fill the empty space with moving ellipses surrounded by lines from what the patterns made. 
+
+
+Struggling with a concept or issue:
+
+
+In the beginning, I struggled with trying to program with Java since most of the references of processing are in Java, but I couldn’t get out of all my testing codes something to be proud of. 
+The other thing I struggled with is changing colors of the inner side of the star unit that I made, and I couldn’t figure it out, so I decided to create inner chape to do the filling in a different style.

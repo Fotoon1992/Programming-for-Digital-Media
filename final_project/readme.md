@@ -8,5 +8,5 @@ to develop unique forms in a way to achieve the principles of Islamic motifs. Us
 Features:
 1- Connect shapes to composition.
 2- Colors will be used to fit the color scale of Islamic motifs.
-3- Can download the image that the user likes (not sure how to do that with processing yet).
+3- color generator for the bachground and shapes.
 
